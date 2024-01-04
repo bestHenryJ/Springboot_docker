@@ -10,3 +10,5 @@ public class DockerController {
         return "Dockerizing Spring Boot Application";
     }
 }
+
+public void test(){};
