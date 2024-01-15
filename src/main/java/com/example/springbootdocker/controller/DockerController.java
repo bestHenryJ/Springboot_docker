@@ -17,3 +17,6 @@ public void test(){};
 public void test_create_branch(){};
 
 push branch
+
+
+test close merge pull
